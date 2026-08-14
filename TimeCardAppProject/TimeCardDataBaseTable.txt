@@ -1,0 +1,7 @@
+ID|EmployeeFirstName|EmployeeSecondName|ClockIn|ClockOut|Date,
+1|Nicholas |Schallenkamp|07:26:52|07:55:40|7, 11, 2024,
+2|John|Schallenkamp|07:27:00|07:57:00|7, 11, 2024,
+3|Carston|Schallenkamp|07:27:08|07:56:37|7, 11, 2024,
+4|Bernice |Schallenkamp|07:48:45|07:49:00|7, 11, 2024,
+5|John|Bolt|07:53:52|07:54:00|7, 11, 2024,
+6|Brett|Blakeman|08:04:45|08:05:27|7, 11, 2024,

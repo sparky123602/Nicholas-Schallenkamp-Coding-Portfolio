@@ -1,0 +1,11 @@
+	MovieName,            MovieRating,       Genre,  		YearReleased,   ID
+TheShawshankRedemption,  9.3000000000000007, 	Drama,    	    	    1994,        1
+TheDarkKnight,		9.3000000000000007,	Crime/Action,	    	    2008,	 2
+Inception,		8.6999999999999993,	Advnture/Action/Sci-Fi,	    2010,	 3
+ApocalypseNow,		8.4000000000000004,	Drama/Mystery/War,	    1979,	 4
+Tangled,		7.7999999999999998,	Adventure/Fun/Kids,	    2009,	 5
+LongLegs,		7.2000000000000002,	Horror,			    2024,	 6	
+DespicableMe,		6.5999999999999996,	Kids/Animated,		    2010,	 7
+DespicableMe2,		6.2000000000000002,	Kids/Animated,		    2013,	 8
+TheBlackPhone,		5.5,			Horror,			    2020,	 9
+TheBatman,		5.0999999999999996,	Crime/Action,		    2022, 	10
